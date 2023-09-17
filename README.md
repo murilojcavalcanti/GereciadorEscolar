@@ -14,9 +14,37 @@ stakeholders. Portanto, este trabalho tem como objetivo demonstrar a importânci
 
 <h2>Prototipação</h2>
 
-O grupo realizou a prototipação utilizando o vetor gráfico "Figma"  
+O grupo realizou a prototipação utilizando o vetor gráfico "Figma", separando o projeto em 7 camadas:
 
-para visualizar, acesse: <a href="url">https://www.figma.com/proto/Tf5sZIe9RIj9uGYWtKYqWp/gerenc_cad_esc?page-id=49%3A2&type=design&node-id=49-5&viewport=445%2C238%2C0.11&t=hsYvxpuPSAgrkrV6-1&scaling=min-zoom&starting-point-node-id=49%3A5</a>
+<h3>Menu</h3>
+
+![image](https://raw.githubusercontent.com/murilojcavalcanti/GereciadorEscolar/master/Prot%C3%B3tipo%20Menu.PNG)
+
+<h3>Professores</h3>
+
+![image](https://github.com/murilojcavalcanti/GereciadorEscolar/blob/master/Prot%C3%B3tipo%20Professores.PNG?raw=true)
+
+<h3>Alunos</h3>
+
+![image](https://github.com/murilojcavalcanti/GereciadorEscolar/blob/master/Prot%C3%B3tipo%20Alunos.PNG?raw=true)
+
+<h3>Fornecedores</h3>
+
+![image](https://github.com/murilojcavalcanti/GereciadorEscolar/blob/master/Prot%C3%B3tipo%20Fornecedores.PNG?raw=true)
+
+<h3>Turmas</h3>
+
+![image](https://github.com/murilojcavalcanti/GereciadorEscolar/blob/master/Prot%C3%B3tipo%20Turmas.PNG?raw=true)
+
+<h3>Disciplinas</h3>
+
+![image](https://github.com/murilojcavalcanti/GereciadorEscolar/blob/master/Prot%C3%B3tipo%20Disciplinas.PNG?raw=true)
+
+<h3>Cadastro</h3>
+
+![image](https://github.com/murilojcavalcanti/GereciadorEscolar/blob/master/Prot%C3%B3tipo%20Cadastro.PNG?raw=true)
+
+Para a visualização, acesse: <a href="url">https://www.figma.com/proto/Tf5sZIe9RIj9uGYWtKYqWp/gerenc_cad_esc?page-id=49%3A2&type=design&node-id=49-5&viewport=445%2C238%2C0.11&t=hsYvxpuPSAgrkrV6-1&scaling=min-zoom&starting-point-node-id=49%3A5</a>
 
 <h2>Diagrama de Casos de Uso</h2>
 
