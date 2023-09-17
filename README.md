@@ -14,7 +14,9 @@ stakeholders. Portanto, este trabalho tem como objetivo demonstrar a importânci
 
 <h2>Prototipação</h2>
 
-Para visualizar a prototipação do projeto, acesse: <a href="url">https://www.figma.com/proto/Tf5sZIe9RIj9uGYWtKYqWp/gerenc_cad_esc?page-id=49%3A2&type=design&node-id=49-5&viewport=445%2C238%2C0.11&t=hsYvxpuPSAgrkrV6-1&scaling=min-zoom&starting-point-node-id=49%3A5</a>
+O grupo realizou a prototipação utilizando o vetor gráfico "Figma"  
+
+para visualizar, acesse: <a href="url">https://www.figma.com/proto/Tf5sZIe9RIj9uGYWtKYqWp/gerenc_cad_esc?page-id=49%3A2&type=design&node-id=49-5&viewport=445%2C238%2C0.11&t=hsYvxpuPSAgrkrV6-1&scaling=min-zoom&starting-point-node-id=49%3A5</a>
 
 <h2>Diagrama de Casos de Uso</h2>
 
