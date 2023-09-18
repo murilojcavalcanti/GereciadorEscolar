@@ -2,7 +2,7 @@
 
 ### Nesta etapa o grupo realizou a prototipação do processo realizado na primeira parte do projeto.
 
-<h2>Introdução</h2>
+##Introdução
 
 Diagramas de classe são ferramentas fundamentais para a modelagem de sistemas orientados a objetos, permitindo representar a estrutura estática de um sistema e as interaçõesentre seus elementos. Esses diagramas oferecem 
 uma visão clara e concisa das classes que compõem o sistema, seus atributos, métodos e relacionamentos, sendo amplamente utilizadosno desenvolvimento de software.
@@ -12,7 +12,7 @@ Por meio da construção e análise de diagramas de classes, podemos identificar
 controle de matrículas, entre outros. Os diagramas de classes proporcionam uma visão abrangente do sistema, permitindo uma compreensão mais profunda e uma comunicação eficaz entre os desenvolvedores, os usuários e demais 
 stakeholders. Portanto, este trabalho tem como objetivo demonstrar a importância e as aplicações dos diagramas de classes em uma faculdade, fornecendo exemplos práticos e discutindo as melhores práticas para a modelagem de um sistema acadêmico.
 
-<h2>Prototipação</h2>
+##Prototipação
 
 O grupo realizou a prototipação utilizando o vetor gráfico "Figma", separando o projeto em 7 camadas:
 
@@ -46,13 +46,13 @@ O grupo realizou a prototipação utilizando o vetor gráfico "Figma", separando
 
 Para a visualização, acesse: <a href="url">https://www.figma.com/proto/Tf5sZIe9RIj9uGYWtKYqWp/gerenc_cad_esc?page-id=49%3A2&type=design&node-id=49-5&viewport=445%2C238%2C0.11&t=hsYvxpuPSAgrkrV6-1&scaling=min-zoom&starting-point-node-id=49%3A5</a>
 
-<h2>Diagrama de Casos de Uso</h2>
+##Diagrama de Casos de Uso
 
 Um diagrama de caso de uso é uma representação visual das interações entre os usuários (atores) e um sistema. Ele ilustra as funcionalidades do sistema a partir da perspectiva do usuário, identificando os diferentes casos de uso e os atores envolvidos. Os casos de uso descrevem as ações realizadas pelos atores e as respostas correspondentes do sistema. O diagrama ajuda a compreender e documentar as interações, delimitar o escopo do sistema e estabelecer os requisitos e funcionalidades necessários.
 
 ![image](https://github.com/JeffLCT/Teste/blob/main/WhatsApp%20Image%202023-09-17%20at%201.09.00%20PM.jpeg?raw=true)
 
-<h2>Diagrama de Classe</h2> 
+##Diagrama de Classe
 
 O diagrama de classe é uma ferramenta de modelagem utilizada na engenharia de software para representar a estrutura e as relações entre as classes de um sistema orientado a objetos. 
 Ele fornece uma visão visual das classes, seus atributos, métodos e interações entre elas.O diagrama de classe serve para:
