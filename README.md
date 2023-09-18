@@ -50,7 +50,7 @@ Para a visualização, acesse: <a href="url">https://www.figma.com/proto/Tf5sZIe
 
 Um diagrama de caso de uso é uma representação visual das interações entre os usuários (atores) e um sistema. Ele ilustra as funcionalidades do sistema a partir da perspectiva do usuário, identificando os diferentes casos de uso e os atores envolvidos. Os casos de uso descrevem as ações realizadas pelos atores e as respostas correspondentes do sistema. O diagrama ajuda a compreender e documentar as interações, delimitar o escopo do sistema e estabelecer os requisitos e funcionalidades necessários.
 
-![Diagrama de casos de uso](<Diagrama Casos de Uso-1.png>)
+![Diagrama de casos de uso](<Diagrama_Casos_de_Uso.png>)
 
 ## Diagrama de Classe
 
