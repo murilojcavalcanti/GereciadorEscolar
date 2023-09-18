@@ -4,7 +4,7 @@
 
 <h2>Introdução</h2>
 
-Diagramas de classes são ferramentas fundamentais para a modelagem de sistemas orientados a objetos, permitindo representar a estrutura estática de um sistema e as interaçõesentre seus elementos. Esses diagramas oferecem 
+Diagramas de classe são ferramentas fundamentais para a modelagem de sistemas orientados a objetos, permitindo representar a estrutura estática de um sistema e as interaçõesentre seus elementos. Esses diagramas oferecem 
 uma visão clara e concisa das classes que compõem o sistema, seus atributos, métodos e relacionamentos, sendo amplamente utilizadosno desenvolvimento de software.
 Neste trabalho, abordaremos a aplicação dos diagramas de classes em uma instituição de ensino, mais especificamente em uma faculdade. O ambiente acadêmico possui uma série de elementos complexos e inter-relacionados,
 desde os cursos e disciplinas até os alunos e professores. O uso de diagramas de classes se torna essencial para visualizar e compreender essas relações, possibilitando um projeto mais eficiente e organizado.
