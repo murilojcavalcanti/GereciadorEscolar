@@ -1,6 +1,6 @@
 <h1>PI - Proposta de Sistema Orientado a Objetos</h1>
 
-<h3>Nesta etapa o grupo realizou a prototipação do processo realizado na primeira parte do projeto.</h3>
+### Nesta etapa o grupo realizou a prototipação do processo realizado na primeira parte do projeto.
 
 <h2>Introdução</h2>
 
@@ -16,31 +16,31 @@ stakeholders. Portanto, este trabalho tem como objetivo demonstrar a importânci
 
 O grupo realizou a prototipação utilizando o vetor gráfico "Figma", separando o projeto em 7 camadas:
 
-<h3>Menu</h3>
+### Menu 
 
 ![image](https://raw.githubusercontent.com/murilojcavalcanti/GereciadorEscolar/master/Prot%C3%B3tipo%20Menu.PNG)
 
-<h3>Professores</h3>
+### Professores
 
 ![image](https://github.com/murilojcavalcanti/GereciadorEscolar/blob/master/Prot%C3%B3tipo%20Professores.PNG?raw=true)
 
-<h3>Alunos</h3>
+### Alunos
 
 ![image](https://github.com/murilojcavalcanti/GereciadorEscolar/blob/master/Prot%C3%B3tipo%20Alunos.PNG?raw=true)
 
-<h3>Fornecedores</h3>
+### Fornecedores
 
 ![image](https://github.com/murilojcavalcanti/GereciadorEscolar/blob/master/Prot%C3%B3tipo%20Fornecedores.PNG?raw=true)
 
-<h3>Turmas</h3>
+### Turmas
 
 ![image](https://github.com/murilojcavalcanti/GereciadorEscolar/blob/master/Prot%C3%B3tipo%20Turmas.PNG?raw=true)
 
-<h3>Disciplinas</h3>
+### Disciplinas
 
 ![image](https://github.com/murilojcavalcanti/GereciadorEscolar/blob/master/Prot%C3%B3tipo%20Disciplinas.PNG?raw=true)
 
-<h3>Cadastro</h3>
+### Cadastro
 
 ![image](https://github.com/murilojcavalcanti/GereciadorEscolar/blob/master/Prot%C3%B3tipo%20Cadastro.PNG?raw=true)
 
