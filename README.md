@@ -52,7 +52,7 @@ Um diagrama de caso de uso é uma representação visual das interações entre 
 
 ![image](https://github.com/JeffLCT/Teste/blob/main/WhatsApp%20Image%202023-09-17%20at%201.09.00%20PM.jpeg?raw=true)
 
-<h2>Diagrama de Classe</h2>
+<h2>Diagrama de Classe</h2> 
 
 O diagrama de classe é uma ferramenta de modelagem utilizada na engenharia de software para representar a estrutura e as relações entre as classes de um sistema orientado a objetos. 
 Ele fornece uma visão visual das classes, seus atributos, métodos e interações entre elas.O diagrama de classe serve para:
