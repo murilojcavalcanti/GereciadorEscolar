@@ -62,7 +62,7 @@ Ele fornece uma visão visual das classes, seus atributos, métodos e interaçõ
 
 <li>Comunicação: O diagrama de classe é uma ferramenta de comunicação eficaz entre os membros da equipe de desenvolvimento de software. Ele fornece uma representação visual clara das classes e suas relações, permitindo que os membros da equipe discutam e compartilhem ideias sobre a estrutura do sistema.</li>
 
-<li>Documentação: O diagrama de classe é uma parte importante da documentação do sistema. Ele pode ser usado para descrever a estrutura do sistema, incluindo as classes, seus atributos e métodos, bem como os relacionamentos entre as classes. Isso ajuda na compreensão e manutenção do sistema no futuro.</li>
+<li>Documentação: O diagrama de classe é uma parte importante da documentação do sistema. Ele pode ser usado para descrever a estrutura do sistema, incluindo as classes, seus atributos e métodos, bem como os relacionamentos entre as classes. Isso ajuda na compreensão e manutenção do sistema no futuro.</li> -
 
 <li>Geração de código: O diagrama de classe também pode ser usado como base para gerar código-fonte automaticamente. Algumas ferramentas de desenvolvimento oferecem a capacidade de converter o diagrama de classe em código em uma linguagem de programação específica, acelerando o processo de desenvolvimento.</li>
 
